@@ -34,3 +34,5 @@ To build a **trustless and transparent event ecosystem** where every ticket, tra
 - **Ethereum / EVM-compatible Blockchain** — Network layer  
 - **Remix IDE / Hardhat** — Development and deployment  
 - **Web3.js / Ethers.js** — Frontend integration  
+Contract Address:0xaf17d2d14Fa9559c366A65CAD94f5d466aBF254E
+![WhatsApp Image 2025-10-28 at 12 20 51 PM](https://github.com/user-attachments/assets/b257f6e7-687f-4631-ab9a-f29f6c1db47a)
