@@ -35,4 +35,5 @@ To build a **trustless and transparent event ecosystem** where every ticket, tra
 - **Remix IDE / Hardhat** — Development and deployment  
 - **Web3.js / Ethers.js** — Frontend integration  
 Contract Address:0xaf17d2d14Fa9559c366A65CAD94f5d466aBF254E
-![Uploading image.png…]()
+![WhatsApp Image 2025-10-28 at 12 20 50 PM](https://github.com/user-attachments/assets/5e70229f-000e-404c-baaa-76a7f44be884)
+
